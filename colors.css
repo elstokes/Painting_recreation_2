@@ -1,0 +1,80 @@
+/* Check out different colors here: https://www.materialpalette.com/ */
+/*Formatting*/
+body{
+  background-color:#666666;
+}
+
+.piece{
+  margin-top: 40px;
+  margin-left: 10px;
+  float:left;
+}
+
+.piece_2{
+  margin-top: 40px;
+  margin-right: 10px;
+  float:right;
+}
+
+.box {
+  min-height: 300px;
+  width: 800px;
+}
+
+.float{
+height:900px;
+width: 80px;
+background: #49dd33;
+float:right;
+}
+
+.dark_green{
+  background-color: #18A74F;
+}
+/*colors*/
+.light_green {
+  background-color: #96D13B;
+}
+
+.yeller {
+  background-color: #FDEA0A;
+}
+
+.orange{
+  background-color:#FF7728;
+}
+
+.carrot{
+  background-color:#F64F2C;
+}
+
+.red{
+  background-color:#DE3236;
+}
+
+.dark_red{
+  background-color:#B83554;
+}
+
+.sludge{
+  background-color:#95486C;
+}
+
+.purple{
+  background-color:#714592;
+}
+
+.aqua{
+  background-color:#2D5AB8;
+}
+
+.blue{
+  background-color:#0071B0;
+}
+.swamp_green{
+  background-color:#018A7A
+}
+
+.bright_green{
+  background-color:#02A345;
+}
