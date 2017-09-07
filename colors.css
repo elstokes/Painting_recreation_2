@@ -13,7 +13,7 @@ body{
 .piece_2{
   margin-top: 40px;
   margin-right: 10px;
-  float:right;
+  float:left;
 }
 
 .box {
@@ -26,6 +26,15 @@ height:900px;
 width: 80px;
 background: #49dd33;
 float:right;
+}
+
+.float2{
+height:900px;
+width: 80px;
+background: #49dd33;
+float:left;
+}
+
 }
 
 .dark_green{
@@ -77,4 +86,7 @@ float:right;
 
 .bright_green{
   background-color:#02A345;
+}
+.nu_green{
+  background-color:#0bb744;
 }
