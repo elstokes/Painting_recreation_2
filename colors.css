@@ -10,42 +10,30 @@ p{
 }
 
 .piece{
-  margin-top: 40px;
-  margin-left: 10px;
+  margin-top: 5vh;
+  margin-left: 20vh;
   float:left;
-}
-
-.piece_2{
-  margin-top: 40px;
-  margin-right: 10px;
-  float:left;
-}
-
-.box {
-  min-height: 300px;
-  width: 800px;
 }
 
 .float{
-height:900px;
-width: 80px;
+height:170vh;
+width:15vh;
 background: #49dd33;
 float:right;
 }
 
 .float2{
-height:900px;
-width: 80px;
+height:170vh;
+width: 17vh;
 background: #49dd33;
 float:left;
 }
 
-}
-
+/*colors*/
 .dark_green{
   background-color: #18A74F;
 }
-/*colors*/
+
 .light_green {
   background-color: #96D13B;
 }
