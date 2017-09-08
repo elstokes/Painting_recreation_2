@@ -4,6 +4,11 @@ body{
   background-color:#666666;
 }
 
+p{
+  font-size:4em;
+  color:#558221;
+}
+
 .piece{
   margin-top: 40px;
   margin-left: 10px;
