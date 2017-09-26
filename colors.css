@@ -29,6 +29,19 @@ background: #49dd33;
 float:left;
 }
 
+/*responsive elements*/
+@media only screen and (max-width: 600px) {
+  body {
+    background-color:#558de8;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    background-color:#ffdf0f;
+  }
+}
+
 /*colors*/
 .dark_green{
   background-color: #18A74F;
